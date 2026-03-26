@@ -72,7 +72,7 @@ The goal of this project is to build an efficient model that can accurately dete
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/spam-email-classifier-ml.git
+git clone https://github.com/ManavCodingspace/spam-email-classifier-ml.git
 cd spam-email-classifier-ml
 pip install -r requirements.txt
 ```
